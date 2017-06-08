@@ -173,7 +173,7 @@ public class CadastroTeste {
 		textOrientacao.setColumns(10);
 		
 		JComboBox comboBoxBase = new JComboBox();
-		comboBoxBase.setModel(new DefaultComboBoxModel(new String[] {"PGMP0001", "PGMP0002", "PGMP0003", "PGMP0004", "PGMP0005"}));
+		comboBoxBase.setModel(new DefaultComboBoxModel(new String[] {"PGMP0001", "PGMP0002", "PGMP0003", "PGMP0004"}));
 		
 		
 		comboBoxBase.setBounds(6, 105, 100, 20);
